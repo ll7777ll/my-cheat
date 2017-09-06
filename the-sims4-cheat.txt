@@ -1,0 +1,7 @@
+ Kaching/Rosebud = 1,000
+
+      Motherlode = 50,000
+
+      Death on/off = เปิดปิดการตายของซิมส์
+
+      Freerealestate = เข้าอยู่บ้านฟรี
